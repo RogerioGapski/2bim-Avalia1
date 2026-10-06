@@ -24,4 +24,4 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 Nome: Rogério Gapski da Silva
 RA: 2026107696
-URL: https://
+URL: https://2bim-avalia1-8r0.pages.dev/
